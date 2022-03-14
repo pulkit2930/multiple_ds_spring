@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "spring.book.datasource.username",
+      "type": "java.lang.String",
+      "description": "Description for spring.book.datasource.username."
+    },
+    {
+      "name": "spring.book.datasource.password",
+      "type": "java.lang.String",
+      "description": "Description for spring.book.datasource.password."
+    },
+    {
+      "name": "spring.book.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for spring.book.datasource.driver-class-name."
+    },
+    {
+      "name": "spring.book.datasource.jdbcUrl",
+      "type": "java.lang.String",
+      "description": "Description for spring.book.datasource.jdbcUrl."
+    }
+  ] }
